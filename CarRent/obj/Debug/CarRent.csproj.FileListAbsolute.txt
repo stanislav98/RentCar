@@ -1,0 +1,16 @@
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.csprojAssemblyReference.cache
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.Form1.resources
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.ListBrands.resources
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.ListModels.resources
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.Properties.Resources.resources
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.Register.resources
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.Results.resources
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.Search.resources
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.Vhod.resources
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.csproj.GenerateResource.cache
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.csproj.CoreCompileInputs.cache
+D:\za universiteta\УСП\CarRent\CarRent\bin\Debug\CarRent.exe.config
+D:\za universiteta\УСП\CarRent\CarRent\bin\Debug\CarRent.exe
+D:\za universiteta\УСП\CarRent\CarRent\bin\Debug\CarRent.pdb
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.exe
+D:\za universiteta\УСП\CarRent\CarRent\obj\Debug\CarRent.pdb
